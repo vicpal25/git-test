@@ -1,4 +1,8 @@
 [{
+  "name": "Los Angeles",
+  "zip": 90006
+},
+{
   "name": "Downey",
-  "age": 90241
+  "zip": 90241
 }]
