@@ -1,5 +1,10 @@
-{
+[{
   "name": "Victor",
   "age": 41,
   "city": "Los Angeles"
-}
+},
+{
+  "name": "Juan",
+  "age": 39,
+  "city": "Los Angeles"
+}]
