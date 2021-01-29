@@ -14,7 +14,12 @@
   "city": "Los Angeles"
 },
 {
-  "name": "Floor",
+  "name": "Flor",
+  "age": 66,
+  "city": "Lawndale"
+},
+{
+  "name": "Pops",
   "age": 66,
   "city": "Lawndale"
 }
