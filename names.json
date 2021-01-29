@@ -12,4 +12,10 @@
   "name": "Juan",
   "age": 39,
   "city": "Los Angeles"
-}]
+},
+{
+  "name": "Floor",
+  "age": 66,
+  "city": "Lawndale"
+}
+]
