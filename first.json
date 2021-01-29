@@ -4,6 +4,11 @@
   "city": "Los Angeles"
 },
 {
+  "name": "Isaac",
+  "age": 13,
+  "city": "Torrance"
+},
+{
   "name": "Juan",
   "age": 39,
   "city": "Los Angeles"
